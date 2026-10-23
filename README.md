@@ -16,7 +16,7 @@ Books: Book titles, authors, genres, publication years, prices, and stock.
 Customers: Customer names, contact details, cities, and countries.
 Orders: Customer orders, book references, order dates, quantities, and total amounts.
 
-# The tables are connected through primary keys and foreign key relationships.
+The tables are connected through primary keys and foreign key relationships.
 
 # Key Business Questions
 This project answers practical bookstore business questions, including:
